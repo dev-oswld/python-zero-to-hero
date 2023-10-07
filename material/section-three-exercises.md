@@ -83,10 +83,6 @@ print(is_valid_email("example-email"))      # This should print False
 
 ## Medium
 
-Of course! Let's create medium-level exercises for each topic in the "Python Libraries for Automation" agenda:
-
----
-
 ## Section 3: *Python Libraries for Automation*
 
 ### 1. Overview of essential Python libraries for automation
@@ -271,3 +267,10 @@ def is_valid_password(password):
 print(is_valid_password("Password123!"))  # This should print True
 print(is_valid_password("password123"))   # This should print False
 ```
+
+## References
+- [What is Python?](https://www.python.org/doc/essays/blurb/)
+- [Python Crash Course, 2nd Edition](https://www.oreilly.com/library/view/python-crash-course/9781492071266/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+## [Go to home](../README.md)

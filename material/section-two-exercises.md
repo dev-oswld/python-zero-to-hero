@@ -365,3 +365,10 @@ filtered_lines = [line for line in lines if "ERROR" not in line]
 with open('filtered_log.txt', 'w') as file:
     file.writelines(filtered_lines)
 ```
+
+## References
+- [What is Python?](https://www.python.org/doc/essays/blurb/)
+- [Python Crash Course, 2nd Edition](https://www.oreilly.com/library/view/python-crash-course/9781492071266/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+## [Go to home](../README.md)
