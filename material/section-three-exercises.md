@@ -83,8 +83,6 @@ print(is_valid_email("example-email"))      # This should print False
 
 ## Medium
 
-## Section 3: *Python Libraries for Automation*
-
 ### 1. Overview of essential Python libraries for automation
 **Exercise:** Research and write a short Python script that uses the `os` library to list all files in the current directory and their sizes.
 ```python
